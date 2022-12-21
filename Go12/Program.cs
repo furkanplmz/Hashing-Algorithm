@@ -119,7 +119,7 @@ namespace Go12
             //dengeli dağıtmak
             //hashing hash function performansına bağlıdır. 
             //moduler % kullanacağız
-            //ABC = 65+66+67 assci değerleri    -65 TEN ÇIKARTIRSAK 65 TAN ÖNCESİNİ ALIR
+            //ABC = 65+66+67 assci değerleri    
             //A = 65    
             //1,2,3,4,5,6,7
             //2132055001...213205999 - 213205001;    213205057  213205024
